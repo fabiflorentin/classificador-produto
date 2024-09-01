@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fflorentin/workspace/TCC/classificador-produtos-mlflow/mlruns/0/9266c1c00fff42989870a38f342192bb/artifacts
+end_time: 1725212884558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9266c1c00fff42989870a38f342192bb
+run_name: crawling-kite-256
+run_uuid: 9266c1c00fff42989870a38f342192bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725212816304
+status: 4
+tags: []
+user_id: fflorentin

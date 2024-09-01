@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fflorentin/workspace/TCC/classificador-produtos-mlflow/mlruns/0/3a4918d9b5da4bf5aa360c51784aa91f/artifacts
+end_time: 1725212962962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a4918d9b5da4bf5aa360c51784aa91f
+run_name: bustling-wasp-169
+run_uuid: 3a4918d9b5da4bf5aa360c51784aa91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725212960090
+status: 4
+tags: []
+user_id: fflorentin
